@@ -43,7 +43,7 @@ This tool aims to simplify the complex process of CTC identification, providing 
 4.  **Results Visualization & Export:** The application then presents the classification results through interactive tables and plots, allowing users to explore the identified CTCs, examine their characteristics, and download the findings for further research.
 
 ## Installation and Usage
-To run `CTCeek` you can access the website: AGGIUNGERE SITO WEB
+To run `CTCeek` you can access the website: https://singlecell.unife.it/ctceek
 
 To run `CTCeek` locally, you need R and RStudio installed.
 
