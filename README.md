@@ -77,7 +77,7 @@ To run `CTCeek` locally, you need R and RStudio installed.
    - pbmc3k.rds: PBMCs only data included in Seurat (2700 cells);
    - seurat_obj_BROAD_filtered.rds, PBMCs only data from The BROAD Institute Systematic Comparative Analysis dataset (where cells employed to build the reference .rds have been removed;
    - pbmcScactcSeurat.rds, our atlas dataset comprising CTCs, PBMCs, and non-CTC contaminants;
-   - combined_melanomaCTC_500PBMC_BROAD_try2.rds, two datasets used as positive control which comprises 136 putative CTC profiles. The ground truth has been enstablished using CopyKAT and SCEVAN CNV tools (double positive = CTC).
+   - GSE255889andGSE295441.CTC.QC.136.rds, two datasets used as positive control which comprises 136 putative CTC profiles. The ground truth has been enstablished using CopyKAT and SCEVAN CNV tools (double positive = CTC).
      
 ## Screenshots
 
