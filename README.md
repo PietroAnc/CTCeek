@@ -1,6 +1,6 @@
 # CTCeek: Circulating Tumor Cell identification in scRNA-seq
 
-![CTCeek Logo/Banner](www/CTCeek_logo.png) 
+<img src="https://www/CTCeek_logo.png" alt="CTCeek Logo/Banner" width="300" height="150">
 
 ## Table of Contents
 
