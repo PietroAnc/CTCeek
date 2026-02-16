@@ -114,7 +114,7 @@ This project is licensed under the GNU GENERAL PUBLIC LICENSE v3 - see the `LICE
 
 For questions or further information, please contact:
 
-* **Pietro Anc** - [pietro.ancona@unife.it]
+* **Pietro Ancona** - [pietro.ancona@unife.it / pa545@cam.ac.uk]
 
 ## Acknowledgments
 
