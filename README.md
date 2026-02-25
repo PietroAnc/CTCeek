@@ -116,6 +116,10 @@ For questions or further information, please contact:
 
 * **Pietro Ancona** - [pietro.ancona@unife.it / pa545@cam.ac.uk]
 
+## Citation
+
+Our pre-print has been published here: https://doi.org/10.64898/2026.02.18.706522
+
 ## Acknowledgments
 
 * This project was developed thanks to European Union PNRR grant obtained by Prof. Stefano Volinia
